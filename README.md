@@ -9,7 +9,7 @@ Data Analytics Project
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=COVID-19-Data-Analysis&theme=flag-india&bg_color=0000FF&text_color=ffffff&title_color=ff9933&icon_color=138808" alt="COVID-19 Data Analysis">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=rahulmudliar&repo=Portfolio-Projects&theme=flag-india&bg_color=0000FF&text_color=ffffff&title_color=ff9933&icon_color=138808" alt="COVID-19 Data Analysis">
     </td>
   </tr>
 </table>
